@@ -12,7 +12,7 @@
     <div class="slide">
         <a href="destinations.php">Destinations</a> 
         <a href="#">Sociétés et culture</a> 
-        <a href="#">Me contacter</a> 
+        <a href="contact.php">Me contacter</a> 
         <a href="#">A propos</a> 
         <button class="close">x</button>
     </div>

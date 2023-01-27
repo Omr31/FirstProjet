@@ -55,3 +55,32 @@
     height: 448px;
     box-shadow: 0 0 10px;
 }
+@media screen and (max-width : 992px){
+    .phiphi{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .phiphi p{
+        margin-top: 3%;
+    }
+    #phi_phi{
+        margin: 0 auto;
+        width: 55%;
+    }
+    .phranang{
+        display: flex;
+        flex-direction: column;
+    }
+    .phranang p{
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    #phranang{
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width : 500px){
+    #bangkok, #phi_phi, #phranang{
+        width: 90%;
+    }
+}
