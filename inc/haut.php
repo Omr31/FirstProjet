@@ -16,6 +16,11 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/contact.css">
     <link rel="stylesheet" href="css/thailande.css">
+    <link rel="stylesheet" href="css/societe.css">
+    <link rel="stylesheet" href="css/societejp.css">
+    <link rel="stylesheet" href="css/societedz.css">
+    <link rel="stylesheet" href="css/amazigh.css">
+    
 </head>
 <body>
     <header>

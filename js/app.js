@@ -5,4 +5,14 @@ $(".burger").click(function(){
 $(".close").click(function(){
     $(".slide").animate({left: "-170px"});
     
-})
+});
+ 
+
+
+
+
+
+
+
+
+ 
