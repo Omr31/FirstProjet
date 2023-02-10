@@ -13,13 +13,19 @@
     <link rel="stylesheet" href="css/maroc.css">
     <link rel="stylesheet" href="css/senegal.css">
     <link rel="stylesheet" href="css/korea.css"> 
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/contact.css">
     <link rel="stylesheet" href="css/thailande.css">
     <link rel="stylesheet" href="css/societe.css">
     <link rel="stylesheet" href="css/societejp.css">
     <link rel="stylesheet" href="css/societedz.css">
+    <link rel="stylesheet" href="css/fetejp.css"> 
+    <link rel="stylesheet" href="css/omotenashi.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/omiyage.css">
+    <link rel="stylesheet" href="css/fetedz.css">
+    <link rel="stylesheet" href="css/mdvsahara.css">
     <link rel="stylesheet" href="css/amazigh.css">
+    
     
 </head>
 <body>

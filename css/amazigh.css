@@ -94,3 +94,54 @@
     height: 423px;
     box-shadow: 0 0 10px;
 }
+.habits_kabyles{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+}
+.avernous{
+    width: 40%;
+    height: 423px;
+    box-shadow: 0 0 10px;
+    margin-right: 2%;
+}
+.robekabyle{
+    width: 20%;
+    height: 423px;
+    box-shadow: 0 0 10px;
+}
+.paysage_kabyle{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%; 
+}
+.djurdjura, .agouni, .olivier{
+    width: 30%;
+    height: 300px;
+    box-shadow: 0 0 10px;
+    
+}
+.bijou{
+    width: 40%;
+    height: 423px;
+    box-shadow: 0 0 10px;
+    margin-right: 2%;
+}
+.poterie{
+    width: 40%;
+    height: 423px;
+    box-shadow: 0 0 10px;
+}
+@media screen and (max-width : 780px){
+    .habits, .environnement, .fete, .habits_chaouis, .aures, .habits_kabyles, .paysage_kabyle {
+        display: flex;
+        flex-direction: column;
+        margin-top: 3%;
+    }
+    #monsieur, #souk, .ahbess, .ahbess_plein, .alghabet, .tapis, .taghiat, .burnous, .melehfa, .ghoufi, .kheirane, .batna, .festival, .yennayer, .avernous, .robekabyle, .djurdjura, .agouni, .olivier, .bijou, .poterie{
+        margin: 5% auto;
+        width: 80%;
+    }
+    
+
+}

@@ -8,12 +8,12 @@
         
     </div>
     <div>
-        <a href=""><img src="img/sahara.jpg" alt="" class="sahara"></a>
+        <a href="mdvsahara.php"><img src="img/sahara.jpg" alt="" class="sahara"></a>
         <p id="mdv">Le mode de vie du Sahara</p>
         
     </div>
     <div>
-        <a href=""><img src="img/gateau.jpg" alt="" class="gateau"></a>
+        <a href="fetedz.php"><img src="img/gateau.jpg" alt="" class="gateau"></a>
         <p id="fetes">Les fêtes en Algérie</p>
         
         

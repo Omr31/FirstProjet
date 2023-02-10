@@ -2,8 +2,10 @@
 <?php include('inc/menu.php');?>
     <h1>Le Japon</h1>
     <p class="soustitre">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, fuga rerum corporis necessitatibus maiores, error ea odio, magni iure iusto vel nulla cum voluptatibus nobis. Quibusdam harum officia ullam laudantium.</p>
+    <div class="imagecentre">
     <img src="img/kyoto.jpg" alt="" class="kyoto">
-    <p class="texte1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quibusdam enim aliquam amet nesciunt. Eveniet asperiores, aspernatur soluta nostrum perspiciatis eum sunt voluptates nulla, tenetur placeat, praesentium veniam! Ipsam, suscipit.
+    </div>
+    <p class="texte3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quibusdam enim aliquam amet nesciunt. Eveniet asperiores, aspernatur soluta nostrum perspiciatis eum sunt voluptates nulla, tenetur placeat, praesentium veniam! Ipsam, suscipit.
     Expedita ducimus accusantium alias pariatur magnam laboriosam necessitatibus, accusamus, voluptatum, a laudantium quia harum provident fuga at cum vel possimus tempore! Necessitatibus veritatis asperiores omnis doloribus dolore sapiente voluptas expedita!
     Commodi, qui? Nihil soluta tempora adipisci placeat animi quas, et dignissimos ab deleniti reiciendis fugiat aspernatur eum quam, sed id facere pariatur officiis amet ratione explicabo, iusto numquam! Nam, magni?</p>
     <div class="article1">

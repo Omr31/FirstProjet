@@ -70,24 +70,26 @@ nav{
     
     border: 1px solid;
     width: 150px;
-    height: 496px;
+    height: 100vh;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     box-shadow: 0 0 10px;
     position: absolute;
+    left: -170px;
     top: 0;
-    background-color: white;
-    left: -160px;
-    
+    background: linear-gradient(360deg, #efb41bfc,#3e1905d1);
 }
+    
+
 .slide a{
     text-decoration: none;
-    color: #3e1905;
+    color: white;
+    font-family: 'DM Sans';
 }
 .slide a:hover{
-    color: #EFB41B;
+    color: #F4A785;
 }
 .close:hover{
     background-color: red;
@@ -100,16 +102,22 @@ nav{
     border: 1px solid;
     border-radius: 12px;
 }
+#intro{
+    text-align: center;
+    font-family: 'DM Serif Display';
+    margin-top: 5%;
+    font-size: 1.8em;
+}
 .partie1{
     display: flex;
     justify-content: space-between;
     margin-top: 5%;
 }
 .ghardaia{
-    height: 408px;
-    width: 40%;
-    margin-right: 10%;
-    margin-top: 5%;
+    height: 462px;
+    width: 42%;
+    margin-right: 5%;
+
     border: 1px solid;
     box-shadow: 0 0 8px black;
     border-radius: 10px;
@@ -123,11 +131,22 @@ nav{
     font-size: 32px;
    
 }
-.texte1{
-    padding-top: 5%;
+.aile{
+    background-image: url(../img/aile.jpg);
+    width: 100%;
+    height: 378px;
+    background-attachment: fixed;
+    background-position-x: left;
+    background-position-y: center;
+    margin-top: 5%;
+}
+
+#texte1{
+    
     font-size: 20px;
-    font-family: 'DM Serif Sans';
-    margin-right: 10%;
+    font-family: 'DM Sans';
+   margin-left: 5%;
+   margin-right: 1%;
    
 }
 .partie2{
@@ -137,10 +156,10 @@ nav{
     
 }
 .fujisan {
-    height: 437px;
-    width: 322px;
-    margin-left: 10%;
-    margin-top: 2%;
+    height: 40%;
+    width: 500px;
+    margin-left: 5%;
+    
     border: 1px solid;
     box-shadow: 0 0 8px black;
     border-radius: 10px;
@@ -153,17 +172,21 @@ nav{
     font-family: 'DM Serif Display';
     font-size: 32px;
 }
-.texte2{
-    padding-top: 5%;
+#texte2{
+    margin-left: 1%;
     font-size: 20px;
     font-family: 'DM Serif Sans';
-    margin-right: 12%;
+    margin-right: 5%;
+    font-family: 'DM Sans';
+}
+#footer{
+    display: flex;
+    justify-content: space-around;   
 }
 .footer{
     background-color: #F4A785;
-    height: 356px;
-    display: flex;
-    justify-content: space-around;
+    height: 100%;
+    
     font-family: 'DM Sans';
     margin-top: 2%;
 }
@@ -185,7 +208,7 @@ nav{
     margin-top: 18px;
 }
 .a{
-    position: absolute;
+    
     padding-top: 31px;
     
     font-size: 18px;
@@ -218,11 +241,9 @@ footer a:hover{
 .copyright{
     font-family: 'DM Sans';
     color: white;
-    /* position: absolute; */
-    /* bottom: 10px; */
+    
     font-size: 16px;
-    position: relative;
-    right: 14px;
+    text-align: center;
 }
 
 .icone {
@@ -270,31 +291,52 @@ footer a:hover{
     nav {
         display: none;
     }
-    .texte_gauche{
-        margin-left: 5%;
-
+    .partie1{
+        display: flex;
+        flex-direction: column
+    }
+    #texte1{
+        text-align: center;
+        font-family: 'DM Sans';
+        font-size: 24px;
     }
     .ghardaia{
         border: 1px solid black;
         box-shadow: 0 0 5px black;
-        margin: 0;
-    /* width: 96%; */
-        margin-top: 12%;
+        
+        width: 80%; 
+        margin: 5% auto;
         border-radius: 10px;
-    /* margin-left: 2%; */
-        margin-right: 2%;
+    
+    
+      
+    }
+    .partie2{
+        display: flex;
+        flex-direction: column;
+    }
+    #texte2{
+        text-align: center;
+        font-family: 'DM Sans';
+        font-size: 20px;
+
     }
     .fujisan{
-        height: 441px;
-        width: 337px;
-        margin-left: 5%;
-        margin-top: 19%;
+        height: 700px;
+        width: 70%;
+        margin: 5% auto;
         border: 1px solid;
         box-shadow: 0 0 8px black;
         border-radius: 10px;
-    }
+     }
+   
     .footer{
         margin-top: 5%;
+       
+        
+    }
+    .a{
+        display: flex;
     }
     
     
@@ -372,11 +414,15 @@ footer a:hover{
        margin-left: 2%;
        margin-right: 2%;
     }
-    .footer{
+    
+    #footer{
         display: flex;
         flex-direction: column;
-        height: 1020px;
         align-items: center;
+        
+    }
+    #footer p{
+        margin-top: 5%;
     }
     .entete{
         margin-left: 41px;
@@ -394,11 +440,9 @@ footer a:hover{
         left: 20px;
     }
     .first_travel{
-        margin-top: 0px;
+        margin-top: 5%;
     }
-    .contact{
-        margin-top: -67px;
-    }
+    
 }
 
 

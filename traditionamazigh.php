@@ -57,6 +57,31 @@ Neque quae quidem vel repellat ullam aliquam et at deleniti tempore molestiae? A
 </div>
 <h2 class="kab">Chez les Kabyles</h2>
 <hr>
+<p id="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate quam quos, molestias quaerat consequatur possimus. Aut dignissimos dolores nemo molestias animi natus ad hic incidunt nulla, quibusdam mollitia est earum.
+Aspernatur rerum, magni iure necessitatibus voluptatibus quod repellat qui doloremque facere, magnam illum nostrum eaque sequi corporis quam inventore libero tempora soluta tempore officiis culpa. Sint soluta nulla sapiente inventore?
+Nostrum obcaecati placeat nesciunt animi consequatur error. Consectetur provident enim dolorum ut consequuntur assumenda corporis illo harum, laudantium nulla illum fugit voluptatem pariatur omnis fugiat ullam accusamus dicta corrupti quisquam!</p>
+<div class="habits_kabyles">
+    <img src="img/avernous.jpg" alt="" class="avernous">
+    <img src="img/robekabyle.jpg" alt="" class="robekabyle">
+</div>
+<p id="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus unde itaque veniam quasi quia, voluptates ipsum placeat, esse, facere aut nostrum? Aspernatur, nemo expedita dolore maxime perferendis quae minus labore!
+Eaque sequi molestiae voluptatum eveniet itaque labore deleniti sunt sed doloribus qui, nulla delectus? Harum cupiditate alias repellat unde accusantium? Eaque impedit quam commodi odit itaque autem adipisci rem suscipit!
+Totam omnis eum molestias modi eveniet aut corporis cupiditate iste numquam quibusdam vero corrupti alias, maxime ducimus unde velit, tenetur laborum possimus quasi dolores quam voluptates minus. Suscipit, debitis quaerat.</p>
+<div class="paysage_kabyle">
+    <img src="img/djurdjura.jpg" alt="" class="djurdjura">
+    <img src="img/agouni.jpg" alt="" class="agouni">
+    <img src="img/olivier.jpg" alt="" class="olivier">
+</div>
+<p id="description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti quaerat, quasi nemo excepturi asperiores eos debitis, laboriosam praesentium minima perspiciatis architecto officia cupiditate deserunt voluptas repellat aut vero qui esse!
+Unde illo ex, sequi earum architecto necessitatibus vero alias rerum sint itaque? Cupiditate, fugiat! Eligendi ab magni perspiciatis maxime excepturi incidunt itaque laboriosam omnis commodi! Minus tenetur perferendis cupiditate quam!
+Harum impedit accusantium facere molestiae odit quisquam quas blanditiis facilis, obcaecati iure eligendi maxime quam velit, excepturi aliquid itaque voluptatum ea nisi deserunt dolorem alias, ipsam aut saepe commodi. Eligendi.</p>
+<div class="fete">
+    <img src="img/bijou.jpg" alt="" class="bijou">
+    <img src="img/poterie.jpg" alt="" class="poterie">
+</div>
+<p id="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, aperiam corrupti! Accusamus dolorem, blanditiis fugiat molestiae tempora cumque necessitatibus delectus id alias officiis numquam pariatur quam deserunt itaque, debitis sit.
+Voluptate necessitatibus, praesentium quidem quisquam, natus dolor laudantium nam earum ut, facilis quaerat eos explicabo amet esse fugiat adipisci? Reiciendis a necessitatibus nihil cum expedita quod quos voluptas tenetur aliquam!
+Optio quaerat totam amet, ipsa consequuntur porro hic ipsum cupiditate assumenda ad beatae praesentium culpa reiciendis nemo impedit recusandae deserunt laborum odit, corporis, quasi iste voluptatibus. Alias quia tempore eveniet.</p>
 
 
 
